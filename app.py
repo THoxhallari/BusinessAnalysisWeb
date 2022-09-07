@@ -10,7 +10,7 @@ CONFIG = {
     "user": "Taulant",
     "password": "Kacavida1",
     "host": "serverstore.database.windows.net",
-    "port": 5432
+    "port": 8000
 }
 
 AGG_FUNCTIONS_OPT = ['COUNT', 'MIN', 'MAX', 'AVERAGE']
