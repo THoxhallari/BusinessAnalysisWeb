@@ -61,4 +61,3 @@ jobs:
           app-name: 'BusinessAnalysisWeb'
           slot-name: 'Production'
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_55E3FFA40D194FD2A17CC6974B0B557B }}
-          package: '${{github.workspace}}/target/*.zip'
